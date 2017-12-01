@@ -1,0 +1,26 @@
+\documentclass{book}
+\usepackage{makeidx}
+\makeindex
+
+\begin{document}
+
+\title{Honduras}
+\author{Dayana Moncada \and Bill Fisher \and Kimberly Staudt}
+\date{}
+\maketitle
+
+\tableofcontents
+
+<<child='Children/chapter1.Rnw'>>=
+
+@
+
+<<child='Children/chapter2.Rnw'>>=
+
+@
+
+<<child='Children/chapter3.Rnw'>>=
+
+@
+
+\end{document}
