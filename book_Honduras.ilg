@@ -1,4 +1,6 @@
-This is makeindex, version 2.15 [TeX Live 2017] (kpathsea + Thai support).
-Scanning input file book_Honduras.idx...done (0 entries accepted, 0 rejected).
-Nothing written in book_Honduras.ind.
+This is makeindex, version 2.15 [MiKTeX 2.9.6350 64-bit] (kpathsea + Thai support).
+Scanning input file book_Honduras.idx....done (1 entries accepted, 0 rejected).
+Sorting entries...done (0 comparisons).
+Generating output file book_Honduras.ind....done (5 lines written, 0 warnings).
+Output written in book_Honduras.ind.
 Transcript written in book_Honduras.ilg.

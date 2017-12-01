@@ -23,4 +23,6 @@
 
 @
 
+
+\printindex
 \end{document}
